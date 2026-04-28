@@ -5,6 +5,8 @@
 
 Desde o início da minha graduação em Estatística, busquei conhecer as diversas áreas de atuação, como *machine learning*, *marketing*, seguros e geoestatística, finanças e epidemiologia, bem como participei de palestras, simpósios, cursos e um programa de treinamento para encontrar a área que mais me identificaria.
 
+A iniciação científica e a extensão foram os projetos que me causaram maior impacto, pois tive contato com literatura acadêmica e problemas reais.
+
 Este portfólio reúne projetos organizados em diferentes camadas de aprofundamento, como notebooks em R, relatórios técnicos e trabalhos acadêmicos, o que refle tanto os resultados quanto o processo de decisão e aprendizado.
 
 Atualmente, desenvolvo diversos projetos de forma privada, com foco em aprendizado profundo. Os trabalhos mais maduros e representativos serão publicados gradualmente neste repositório.
