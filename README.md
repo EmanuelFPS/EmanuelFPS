@@ -12,8 +12,8 @@ Este portfólio reúne projetos organizados em diferentes camadas de aprofundame
 Atualmente, desenvolvo diversos projetos de forma privada, com foco em aprendizado profundo. Os trabalhos mais maduros e representativos serão publicados gradualmente neste repositório.
 
 ## 🚀 Projetos em destaque
-- 🦠[Curso de introdução ao R com aplicações em epidemiologia](https://emanuelfps.github.io/introducao-ao-r/) – Extensão
-- 🔐[Tratamento de dados para previsão do prêmio de seguros de carros](https://github.com/EmanuelFPS/car-insurance-premium-prediction) – Programa de treinamento em Python
+- 🦠[Curso de introdução ao R com aplicações em epidemiologia](https://emanuelfps.github.io/introducao-ao-r/)
+- 🔐[Tratamento de dados para previsão do prêmio de seguros de carros](https://github.com/EmanuelFPS/car-insurance-premium-prediction)
 - 💹[Análise de regressão do IPCA com variáveis econômicas](https://github.com/EmanuelFPS/analise-de-regressao-do-ipca-com-variaveis-economicas)
 
 ## 📁 Outros projetos
