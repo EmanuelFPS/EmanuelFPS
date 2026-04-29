@@ -14,6 +14,7 @@ Atualmente, desenvolvo diversos projetos de forma privada, com foco em aprendiza
 ## 🚀 Projetos em destaque
 - [Curso de introdução ao R com aplicações em epidemiologia](https://emanuelfps.github.io/introducao-ao-r/) – Extensão
 - [Tratamento de dados para previsão do prêmio de seguros de carros](https://github.com/EmanuelFPS/car-insurance-premium-prediction) – Programa de treinamento em Python
+- [Análise de regressão do IPCA com variáveis econômicas](https://github.com/EmanuelFPS/analise-de-regressao-do-ipca-com-variaveis-economicas)
 
 ## 📁 Outros projetos
 - [Análise discriminante em detecção de risco de crédito](https://github.com/EmanuelFPS/analise-discriminante-em-deteccao-de-risco-de-credito)
