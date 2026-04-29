@@ -12,13 +12,13 @@ Este portfólio reúne projetos organizados em diferentes camadas de aprofundame
 Atualmente, desenvolvo diversos projetos de forma privada, com foco em aprendizado profundo. Os trabalhos mais maduros e representativos serão publicados gradualmente neste repositório.
 
 ## 🚀 Projetos em destaque
-- [Curso de introdução ao R com aplicações em epidemiologia](https://emanuelfps.github.io/introducao-ao-r/) – Extensão
-- [Tratamento de dados para previsão do prêmio de seguros de carros](https://github.com/EmanuelFPS/car-insurance-premium-prediction) – Programa de treinamento em Python
-- [Análise de regressão do IPCA com variáveis econômicas](https://github.com/EmanuelFPS/analise-de-regressao-do-ipca-com-variaveis-economicas)
+- 🦠[Curso de introdução ao R com aplicações em epidemiologia](https://emanuelfps.github.io/introducao-ao-r/) – Extensão
+- 🔐[Tratamento de dados para previsão do prêmio de seguros de carros](https://github.com/EmanuelFPS/car-insurance-premium-prediction) – Programa de treinamento em Python
+- 💹[Análise de regressão do IPCA com variáveis econômicas](https://github.com/EmanuelFPS/analise-de-regressao-do-ipca-com-variaveis-economicas)
 
 ## 📁 Outros projetos
-- [Análise discriminante em detecção de risco de crédito](https://github.com/EmanuelFPS/analise-discriminante-em-deteccao-de-risco-de-credito)
-- [Segmentação de usuários de uma plataforma de streaming](https://github.com/EmanuelFPS/segmentacao-de-usuarios-de-uma-plataforma-streaming)
-- [Análise fatorial aplicada ao comportamento do consumidor](https://github.com/EmanuelFPS/analise-fatorial-aplicada-ao-comportamento-do-consumidor)
-- [PCA aplicado em escala Likert](https://github.com/EmanuelFPS/pca-aplicado-em-escala-likert)
-- [Comparação demográfica de Colatina-ES com o Brasil](https://github.com/EmanuelFPS/comparacao-demografica-de-colatina-es-com-brasil)
+- 💳[Análise discriminante em detecção de risco de crédito](https://github.com/EmanuelFPS/analise-discriminante-em-deteccao-de-risco-de-credito)
+- 📺[Segmentação de usuários de uma plataforma de streaming](https://github.com/EmanuelFPS/segmentacao-de-usuarios-de-uma-plataforma-streaming)
+- 🛒[Análise fatorial aplicada ao comportamento do consumidor](https://github.com/EmanuelFPS/analise-fatorial-aplicada-ao-comportamento-do-consumidor)
+- 🙂[PCA aplicado em escala Likert](https://github.com/EmanuelFPS/pca-aplicado-em-escala-likert)
+- 🗺️[Comparação demográfica de Colatina-ES com o Brasil](https://github.com/EmanuelFPS/comparacao-demografica-de-colatina-es-com-brasil)
